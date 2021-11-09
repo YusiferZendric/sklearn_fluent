@@ -4,5 +4,5 @@ Just provide x and y list and there you have it the Mathemtical function + accur
 ## You can get it at [sklearn_fluent](https://pypi.org/project/sklearn-fluent/0.0.1/)
 or 
 ``` bash
-  pip install sklearn_fluent
+pip install sklearn_fluent
 ```
